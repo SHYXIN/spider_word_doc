@@ -1,0 +1,7 @@
+.idea
+file
+*.pytest_cache
+
+*.xlsx
+*.xls
+*.csv
